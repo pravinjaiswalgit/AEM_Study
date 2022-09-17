@@ -4,4 +4,8 @@ From A
 From A1
 From A3
 From B
+<<<<<<< HEAD
 From A4
+=======
+From B1
+>>>>>>> 112e2fe721a1962689e6cb34ba806f7068e047a5
