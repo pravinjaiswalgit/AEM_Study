@@ -6,8 +6,5 @@ From A3
 From B
 From A4
 From B1
-<<<<<<< HEAD
-From A5
-=======
 From B2
->>>>>>> b02af5a0b4171155acd94b7887ed8140a2180676
+From A5
